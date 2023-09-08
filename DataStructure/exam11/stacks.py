@@ -1,5 +1,5 @@
-from exam10.doublyLinkedLists1 import Node
-from exam10.doublyLinkedLists1 import DoublyLinkedList
+from DataStructure.exam10.doublyLinkedLists1 import Node
+from DataStructure.exam10.doublyLinkedLists1 import DoublyLinkedList
 
 '''
 스택(Stack)
